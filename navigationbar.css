@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    background-color:white;
+    margin: 5px;
+    padding: 5px;
+}
+div a{
+    text-decoration: none;
+    color: green;
+    margin: 15px;
+    border: 1px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+div a:hover{
+    color: yellow;
+    background-color: darkgreen;
+}
+h1{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    color: yellowgreen;
+    font-family:'Lucida Calligraphy' ;
+}
+body{
+    background-color: black;
+}
+a:hover{
+    background-color:grey;
+    color: yellow;
+}
+li a{
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    margin: 0px 0px 0px 5px;
+    width: 10%;
+    background-color: darkgreen;
+    color: white;
+}
+
+i:hover{
+    color: yellow;
+
+}
